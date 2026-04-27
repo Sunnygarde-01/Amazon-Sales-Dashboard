@@ -1,4 +1,5 @@
-##📦 Amazon Sales Performance Analytics
+#📦 **Amazon Sales Performance Analytics**
+
 Overview :-
 Transforming raw e-commerce data into actionable business intelligence. This project features a comprehensive Power BI Dashboard designed to track, analyze, and optimize Amazon sales performance. It provides a deep dive into revenue trends, order fulfillment, and consumer demographics.
 
