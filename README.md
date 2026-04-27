@@ -41,10 +41,15 @@ I developed a dynamic, end-to-end analytical solution that automates the insight
 
 • **Fulfillment**: Visualized the ratio between "Easy Ship" and "Amazon" logistics to evaluate delivery speeds.
 
+## Demos
+- Show What tha Dashboard Look like. ![Alt Text](https://github.com/Sunnygarde-01/Amazon-Sales-Dashboard/blob/main/Amazon_sales_sanpshoot.png.)
+
 🚀 How to Use
 Clone this repository.
 
 Open the Amazon_Sales_Project.pbix file using Power BI Desktop.
 
 Explore the interactive charts to view specific state or product performance.
+
+
 
